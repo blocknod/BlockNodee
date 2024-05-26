@@ -25,8 +25,8 @@ Advanced cryptographic techniques
 Decentralized finance (DeFi) protocols
 
 📫 How to Reach Me:
-Email: blacknodee@gmail.com
-Twitter: @blacknodee
+Email: help.blocknode@gmail.com
+Twitter: @blocknodee
 
 🔧 Projects & Contributions
 Blockchain Projects: Exploring and contributing to open-source blockchain projects
