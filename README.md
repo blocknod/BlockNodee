@@ -26,7 +26,6 @@ Decentralized finance (DeFi) protocols
 
 📫 How to Reach Me:
 Email: help.blocknode@gmail.com
-Twitter: @blocknodee
 
 🔧 Projects & Contributions
 Blockchain Projects: Exploring and contributing to open-source blockchain projects
